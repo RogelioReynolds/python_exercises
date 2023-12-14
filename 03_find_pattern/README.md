@@ -1,4 +1,4 @@
-# 03. Find Pattern
+!*03. Find Pattern
 
 ## Exercise
 
@@ -37,3 +37,4 @@ pattern.findall("today's max temparature is 15 and min is 10.")
 * `re`では、`compile`によってパターンを作成することができます。
 * `match`、`search`は一致する一か所(`match`は先頭のみチェック)、`findall`は一致する箇所すべてを検出してくれます。詳細は[ドキュメント](http://docs.python.jp/3.5/library/re.html)を参照してください。
 
+ 
